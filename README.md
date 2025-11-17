@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Miguel
 
-<!--
-**Miguelrd07/Miguelrd07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mim
+Sou alguém sempre buscando aprender mais na área de tecnologia, principalmente em **Python**, **Algoritmos e Lógica de Programação**, e criação de **dashboards interativos**.  
+Também estou me preparando para concursos, incluindo o **Concurso Nacional Unificado 2 (CPNU2 – Técnico em Regulação – ANTT)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Atualmente trabalhando em…
+- Exercícios e projetos de **scripts em Python**  
+- Páginas em **HTML + JavaScript**  
+- Criação de **dashboards profissionais**
+
+---
+
+## 🌱 Atualmente aprendendo…
+- Python para automação e lógica  
+- Desenvolvimento front-end (HTML, CSS e JS)  
+- Redação de documentos formais  
+- Técnicas de estudo para concursos
+
+---
+
+## 👯 Buscando colaborar em…
+- Projetos simples em Python  
+- Lógica de programação  
+- Dashboards e análise de dados
+
+---
+
+## 🤔 Procurando ajuda com…
+- Exercícios de programação  
+- JavaScript para projetos e provas  
+- Preparação para concursos da área administrativa/regulatória
+
+---
+
+## 💬 Pergunte-me sobre…
+- Python (iniciante/intermediário)  
+- Dashboards  
+- Estudos para concursos
+
+---
+
+## 📫 Como me contactar
+*(Adicione aqui seu e-mail ou redes sociais)*
+
+---
+
+## ⚡ Curiosidade
+Gosto de aprender coisas novas todos os dias e sempre estou resolvendo algum exercício ou testando ideias práticas.
+
