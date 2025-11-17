@@ -43,8 +43,8 @@ Também estou me preparando para concursos, incluindo o **Concurso Nacional Unif
 ---
 
 ## 📫 Como me contactar
-*(Adicione aqui seu e-mail ou redes sociais)*
-
+e-mail: sr.miguelrodrigues11@gmail.com
+Insta: __oliveiraasz 
 ---
 
 ## ⚡ Curiosidade
