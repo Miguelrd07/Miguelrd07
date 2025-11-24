@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Miguel
+# 👋 Olá! Eu sou o Miguel Rodrigues de Oliveira
 
 ## 🧑‍💻 Sobre mim
 Sou alguém sempre buscando aprender mais na área de tecnologia, principalmente em **Python**, **Algoritmos e Lógica de Programação**, e criação de **dashboards interativos**.  
