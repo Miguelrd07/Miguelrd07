@@ -1,0 +1,47 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[brazil]{babel}
+\usepackage{hyperref}
+\usepackage{setspace}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Currículo – Miguel Rodrigues de Oliveira}}\\[6pt]
+\end{center}
+
+\section*{Dados Pessoais}
+\begin{itemize}
+    \item Endereço: Área Especial 1 Casa 14, Condomínio Buritis, Água Quente–DF
+    \item Telefone: (61) 9 9221-5974
+    \item E-mail: \href{mailto:sr.miguelrodrigues11@gmail.com}{sr.miguelrodrigues11@gmail.com}
+    \item Lattes: Não cadastrado
+\end{itemize}
+
+\section*{Formação Acadêmica}
+\begin{itemize}
+    \item Cursando Análise e Desenvolvimento de Sistemas — UDF (Centro Universitário do Distrito Federal)
+\end{itemize}
+
+\section*{Cursos Complementares}
+\begin{itemize}
+    \item Introdução à Cibersegurança — Cisco Networking Academy
+\end{itemize}
+
+\section*{Habilidades Técnicas}
+\begin{itemize}
+    \item Noções de Segurança da Informação
+    \item Redes (básico)
+    \item Sistemas Operacionais
+    \item Lógica de Programação
+\end{itemize}
+
+\section*{Idiomas}
+\begin{itemize}
+    \item Português — Nativo
+\end{itemize}
+
+\section*{Objetivo Profissional}
+Atuar na área de tecnologia, com interesse em desenvolvimento, infraestrutura ou segurança da informação, adquirindo experiência prática e evoluindo profissionalmente.
+
+\end{document}
